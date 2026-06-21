@@ -48,18 +48,6 @@ Features
   python main.py
 
 
-# Project Roadmap
- -Implement real-time hand detection
- -Display hand landmarks
- -Detect raised fingers
- -Create a gesture recognition engine
- -Implement virtual cursor movement
- -Add mouse click actions
- -Add scrolling and drag controls
- -Implement system controls
- -Create a GUI for customization
-
-
 # Contributing
 
 Contributions, suggestions, and feedback are welcome.
