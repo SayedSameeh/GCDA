@@ -10,18 +10,19 @@ Features
 - Hand detection using MediaPipe
 - 21-point hand landmark tracking
 - Real-time hand landmark visualization
-
-# Planned Features
+- Volume and brightness control
+- Media controls
+- User settings interface
 - Finger state detection
 - Gesture recognition system
 - Virtual mouse control
 - Left/right click gestures
+
+  
+# Planned Features
 - Drag and drop support
 - Scrolling gestures
-- Volume and brightness control
-- Media controls
 - Custom gesture mapping
-- User settings interface
 
 
 # Technologies Used
